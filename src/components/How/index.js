@@ -33,7 +33,7 @@ export default function How() {
               <br />
               <h5>Streamer Experience</h5>
               <p style={ptag}>
-                Easy to set up a live stream whether it's for a major event or
+                Easy to set up a live stream whether it&apos;s for a major event or
                 you are a content creator.
               </p>
             </Col>
