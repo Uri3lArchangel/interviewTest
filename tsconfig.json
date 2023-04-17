@@ -18,6 +18,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/Viewer/index.jsx", "src/components/Utils/walletconnection.js", "pages/index.jsx"],
   "exclude": ["node_modules"]
 }
